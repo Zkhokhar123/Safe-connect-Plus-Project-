@@ -1,4 +1,4 @@
-# emf
+# Safe Connect Plus Project
 
 A new Flutter project.
 
